@@ -1,3 +1,3 @@
 # java-basics
 basic java and oops codes
-by Khateeb
+by Khateeb shariff
